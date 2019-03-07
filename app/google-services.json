@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "150236220461",
+    "firebase_url": "https://mangagit-5e8e3.firebaseio.com",
+    "project_id": "mangagit-5e8e3",
+    "storage_bucket": "mangagit-5e8e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150236220461:android:82939333974f5ab5",
+        "android_client_info": {
+          "package_name": "com.kingleoners.mangagit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150236220461-98p0k75rsmplnfj45c49fjk0leer5bbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kingleoners.mangagit",
+            "certificate_hash": "0bd529012f19b881c7d967afd007cfa61c0dde11"
+          }
+        },
+        {
+          "client_id": "150236220461-kp1un3282uauqs1hp1s83iptjfvdh9cm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Atna_5l3fs3YdLcGWpXvvY1rNxKRKgI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150236220461-kp1un3282uauqs1hp1s83iptjfvdh9cm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
